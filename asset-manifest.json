@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/opencore-clone/static/css/main.4ff7776d.css",
+    "main.js": "/opencore-clone/static/js/main.5cdb68a7.js",
+    "index.html": "/opencore-clone/index.html",
+    "main.4ff7776d.css.map": "/opencore-clone/static/css/main.4ff7776d.css.map",
+    "main.5cdb68a7.js.map": "/opencore-clone/static/js/main.5cdb68a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff7776d.css",
+    "static/js/main.5cdb68a7.js"
+  ]
+}
